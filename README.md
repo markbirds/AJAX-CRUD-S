@@ -12,39 +12,38 @@ My Youtube Channel: 	[Owen Patrick F. Falculan](https://www.youtube.com/channel/
 
 ## Main Menu
 
-![mainmenu]()
+![mainmenu](https://i.ibb.co/2ZPgpf3/1.png)
 
 ---
 
 ## Create
 
-![create]()
+![create](https://i.ibb.co/SV3cCcT/2.png)
 
 ---
 
 ## Read
 
-![read]()
-![read]()
+![read](https://i.ibb.co/j3PTPfq/3.png)
+![read](https://i.ibb.co/0tS9d2F/4.png)
 
 ---
 
 ## Update
 
-![update]()
-![update]()
+![update](https://i.ibb.co/ctWPpyZ/5.png)
+![update](https://i.ibb.co/8PQGGXt/6.png)
 
 ---
 
 ## Delete
 
-![delete]()
-![delete]()
+![delete](https://i.ibb.co/rw7zVt5/7.png)
 
 ---
 
 ## Search
 
-![search]()
-![search]()
-![search]()
+![search](https://i.ibb.co/TH4vZML/8.png)
+![search](https://i.ibb.co/4KQ3rFp/9.png)
+![search](https://i.ibb.co/pRWgpY0/10.png)
